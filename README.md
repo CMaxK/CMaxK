@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/-christopherkarg/](https://www.linkedin.com/in/-christopherkarg/)
 
-- ⚡ Fun fact **Since I am German I am the Wurst at jokes...**
+- ⚡ Fun fact **I am the Wurst at jokes...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
