@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **python, data analysis, ML/DL**
 
-- 📫 How to reach me **christopher.m.karg@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/-christopherkarg/](https://www.linkedin.com/in/-christopherkarg/)
 
 - ⚡ Fun fact **I am the Wurst at jokes...**
