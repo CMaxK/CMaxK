@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [robo romeo](https://github.com/CMaxK/robo_romeo)
 
-- 🌱 I’m currently learning **Advanced Keras/Tensorflow**
+- 🌱 I’m currently learning **Advanced Keras/Tensorflow/Backend Development/Go/Ethical Hacking/Penetration Testing**
 
-- 👯 I’m looking to collaborate on **deep learning tasks....**
+- 👯 I’m looking to collaborate on **deep learning tasks...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CMaxK](https://github.com/CMaxK)
 
-- 💬 Ask me about **python, data analysis, ML/DL**
+- 💬 Ask me about **Python, ML/DL, Data Infrastructure**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/-christopherkarg/](https://www.linkedin.com/in/-christopherkarg/)
 
