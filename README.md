@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [robo romeo](https://github.com/CMaxK/robo_romeo)
 
-- 🌱 I’m currently learning **Advanced Keras/Tensorflow/Backend Development/Go/Ethical Hacking/Penetration Testing**
+- 🌱 I’m currently learning **Advanced Keras+PyTorch/Backend Development/Go/Ethical Hacking/Penetration Testing**
 
 - 👯 I’m looking to collaborate on **deep learning tasks...**
 
