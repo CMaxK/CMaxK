@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A Data Scientist from Germany</h3>
+<h3 align="center">A Data Professional from Germany</h3>
 
 - 🔭 I’m currently working on [robo romeo](https://github.com/CMaxK/robo_romeo)
 
